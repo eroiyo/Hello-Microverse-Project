@@ -4,8 +4,6 @@
 
 > An Git Project made to test project metholodogy
 
-## Built With
-
 ## Live Demo
 
 [Live Demo Link](https://eroiyo.github.io/Hello-Microverse-Project/)
