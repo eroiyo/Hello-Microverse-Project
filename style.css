@@ -1,0 +1,21 @@
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  text-justify: center;
+  background-color: darkmagenta;
+  font-family: 'Ubuntu', Courier, monospace;
+  width: 100%;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+body {
+  margin: 0;
+  align-content: center;
+  display: flex;
+  background-color: darkmagenta;
+  height: 100vh;
+
+}
